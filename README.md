@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LualtOfficial
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning how to use my brain LOL
-- 💞️ I’m looking to collaborate on some new projects
 - 📫 How to reach me via discord (Lualt#7913)
 
 <!---
