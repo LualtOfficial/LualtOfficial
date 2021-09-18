@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LualtOfficial
-- 👀 I’m interested in coding and gaming
-- 📫 How to reach me via discord (Lualt#7913)
+- 👋 ```print("Hey, I'm Lualt")```
+- 👀 ```interests = ["Coding", "Gaming", "Music"]```
+- 📫 ```discord = {"User": {"Name": "Lualt", "Discriminator": 0001}}```
 
 <!---
 LualtOfficial/LualtOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
