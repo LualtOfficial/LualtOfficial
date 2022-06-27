@@ -1,8 +1,5 @@
 Hey, I'm Lualt.
 
-My hobbies mainly are coding and gaming.
-Currently I am `learning Lua`, but i already
-know `python`, `web stuff`, little bit of `C#`,
-`GDScript` and a few others I have tried.
+I don't really use github too much so what you see here isn't an accurate depiction of what I actually make nor how good I am at programming.
 
 My discord is Lualt#0001
